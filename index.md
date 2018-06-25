@@ -1,2 +1,2 @@
-## Welcome to Blog
-## Huynh_Thai_Tung
+Welcome to Blog
+Huynh_Thai_Tung
